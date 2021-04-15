@@ -1,2 +1,2 @@
 # Project-Kryptografia
-Projekt studencki Szyfr Polibiusza
+The Cipher of Polibiusz student project
